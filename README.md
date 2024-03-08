@@ -17,7 +17,7 @@ Supercharge your Telegram channel with our Free Telegram Views Booster script by
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/Nepcoder1/Freetgviews.git
+git clone https://github.com/Nepcoder1/Freetgviews.git &&
 cd Freetgviews
 ```
 
@@ -34,7 +34,12 @@ python main.py
 ```
 
 Witness a surge in Telegram views effortlessly.
-
+```
+modules
+pip install requests
+pip install user_agent
+pip install fake_useragent
+```
 ## Enjoy Boosting!
 
 Elevate your Telegram channel's reach with our Free Telegram Views Booster and engage your audience like never before.
