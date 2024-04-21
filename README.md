@@ -32,16 +32,13 @@ Execute the following command to start boosting Telegram views:
 ```bash
 python main.py
 ```
-credit:-MrTechno For code 
-Witness a surge in Telegram views effortlessly.
-```
-modules
-```
 
-pip install requests &&
-pip install user_agent &&
-pip install fake_useragent
 
+## Modules:
+```bash
+pip install requests
+pip install beautifulsoup4
+pip install colorama
 ```
 
 ## Enjoy Boosting!
