@@ -37,10 +37,13 @@ Witness a surge in Telegram views effortlessly.
 ```
 modules
 ```
+
 pip install requests &&
 pip install user_agent &&
 pip install fake_useragent
+
 ```
+
 ## Enjoy Boosting!
 
 
